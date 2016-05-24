@@ -1,0 +1,6 @@
+[submodule "themes/crisp"]
+	path = themes/crisp
+	url = git@github.com:Zenithar/hugo-theme-crisp.git
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
+	url = git@github.com:jbub/ghostwriter
